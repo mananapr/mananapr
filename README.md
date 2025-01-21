@@ -1,4 +1,4 @@
-## Hi there 👋
+![mnn's gitHub stats](https://github-readme-stats.vercel.app/api?username=mananapr&show_icons=true&theme=gruvbox)
 
 <!--
 **mananapr/mananapr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
